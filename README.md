@@ -8,7 +8,10 @@
     जय हिन्द !!
 
     made with love for India  🇮🇳 :)
-    
+
+# Demo
+![aad](https://user-images.githubusercontent.com/112636345/215808433-37e2cb70-c15e-47a0-863b-c2212066e43e.gif)
+
     
  
  # How to use ?
