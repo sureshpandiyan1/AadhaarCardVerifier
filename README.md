@@ -7,7 +7,7 @@
 
     जय हिन्द !!
 
-    made in india :)
+    made with love for India  🇮🇳 :)
     
     
  
@@ -33,4 +33,4 @@
     Created By Suresh P |  AadhaarCardVerifier
     GNU General Public License
 
-made with love for India  :)
+made with love for India  🇮🇳 :)
