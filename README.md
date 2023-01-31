@@ -30,7 +30,7 @@
     Government sectors
     
 # Copyright
-Created By Suresh P |  AadhaarCardVerifier
-GNU General Public License
+    Created By Suresh P |  AadhaarCardVerifier
+    GNU General Public License
 
 made with love for India  :)
